@@ -54,3 +54,18 @@ Esempi di soluzioni algoritmiche più o meno efficienti: algoritmo di Archimede 
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2DFJZK5OEPGUZG2WRPNZOFDS345&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25202%2520-%252010102025-20251010_140934-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25202%2520-%252010102025-20251010_140934-Meeting%2520Recording.mp4%3Fweb%3D1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=6dfed230-bfdb-4d3c-8a7c-c4fb3a0eb510&threadType=topic&meetingType=MeetNow&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1760097058055&subType=RecapSharingLink_RecapCore)
 
+
+### Lezione 3 del 2025-10-13 (tutor)
+
+Guida all'istallazione e al primo utilizzo degli strumenti per il laboratorio.
+
+- [Slides](lezioni/03-2025-10-14/03-strumenti.pdf)
+
+
+### Lezione 4 del 2025-10-14
+
+Limiti del metodo algoritmico: indecidibilità e intrattabilità. La Macchina di Von Neumann. Rappresentazione dei programmi e dei dati.
+
+- [Slides](lezioni/04-2025-10-14/04-limiti_del_metodo_algoritmico+macchina_di_von_neumann.pdf)
+
+- [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2DKTKY7FG3W7NGLOC4D7V6ZYIB3&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25204%2520-%25202025-10-14-20251014_085124UTC-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25204%2520-%25202025-10-14-20251014_085124UTC-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e00800000000c780f825d73cdc01000000000000000010000000127a4647e930c84582f9d6c9093e2487&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=42a9aa2f-b48f-4081-95b2-54c1c8f69907&threadType=topic&meetingType=Scheduled&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1760424766080&subType=RecapSharingLink_RecapCore)
