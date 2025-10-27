@@ -112,7 +112,7 @@ Introduzione alla complessità temporale: notazione O-grande, analisi del caso p
 
 ### Lezione 10 del 2025-10-27
 
-Complessità temporale dell'operazione di confronto tra liste e dell'indicizzazione. Progettazione di nuove funzioni: definizione ed esecuzione di funzioni, parametri formali, parametri attuali, variabili locali, istruzione `return`.
+Complessità temporale dell'operazione di confronto tra liste e dell'indicizzazione. Progettazione di nuove funzioni: definizione ed esecuzione di funzioni, parametri formali, parametri attuali, variabili locali, istruzione `return`, la *docstring* e la funzione `help`.
 
 - [Codice](lezioni/10-2025-10-27/10_liste.ipynb)
 
