@@ -59,7 +59,7 @@ Esempi di soluzioni algoritmiche più o meno efficienti: algoritmo di Archimede 
 
 Guida all'istallazione e al primo utilizzo degli strumenti per il laboratorio.
 
-- [Slides](lezioni/03-2025-10-14/03-strumenti.pdf)
+- [Slides](lezioni/03-2025-10-13_tutor/03-strumenti.pdf)
 
 
 ### Lezione 4 del 2025-10-14
@@ -106,7 +106,7 @@ Operatori bit-a-bit e loro utilizzo per migliorare l'efficienza. Operazioni su s
 
 Introduzione alla complessità temporale: notazione O-grande, analisi del caso peggiore e del caso medio. Le strutture dati *tupla* e *lista*.
 
-- [Codice](lezioni/09-2025-10-24/09_efficienza.ipynb)
+- [Codice](lezioni/09-2025-10-24/09_complessita+tuple+liste.ipynb)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2CHIJWKPMZTCBD33EFZMYUG2BY5&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti+condivisi%2FLezioni+2025-26%2FRecordings%2FSolo+visualizzazione%2FLezione+9+del+2025-10-24-20251024_084800UTC-Meeting+Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25209%2520del%25202025-10-24-20251024_084800UTC-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e008000000007256d18db144dc010000000000000000100000004b397faf5093d54691f60b2cc082efe1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=afff4114-05e0-4d09-8248-d2889f09542f&threadType=topic&meetingType=Scheduled&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1761288228489&subType=RecapSharingLink_RecapCore)
 
@@ -114,6 +114,14 @@ Introduzione alla complessità temporale: notazione O-grande, analisi del caso p
 
 Complessità temporale dell'operazione di confronto tra liste e dell'indicizzazione. Progettazione di nuove funzioni: definizione ed esecuzione di funzioni, parametri formali, parametri attuali, variabili locali, istruzione `return`, la *docstring* e la funzione `help`.
 
-- [Codice](lezioni/10-2025-10-27/10_liste.ipynb)
+- [Codice](lezioni/10-2025-10-27/10_liste+funzioni.ipynb)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2AUCKKKV2PQ7BDZDPTALOPBRWSA&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252010%2520del%25202025-10-27-20251027_094936UTC-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252010%2520del%25202025-10-27-20251027_094936UTC-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e00800000000c5862abc1447dc01000000000000000010000000db57117a4523b348b93aa3745941c037&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=706b6df4-f0b6-4a29-9ab4-bcecc2a1105f&threadType=topic&meetingType=Scheduled&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1761550728803&subType=RecapSharingLink_RecapCore)
+
+### Lezione 11 del 2025-10-28
+
+Esempi di funzioni di ricerca incorporate (`min`, `max`) e non: implementazioni di `argfind` e `argmax`. L'istruzione `break` per uscire dal ciclo più interno. Il valore `None`. Come ordinare le condizione in `or` per evitare effetti indesiderati. *Aliasing* e *clonazione* di liste. Aliasing e parametri di funzioni. Cenni preliminari di ricorsione.
+
+- [Codice](lezioni/11-2025-10-28/11_funzioni_di_ricerca+aliasing.ipynb)
+
+- [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2E6PEKDK7X73ZBYDGATUU6DUV2O&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252011%2520del%25202025-10-28-20251028_091602-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252011%2520del%25202025-10-28-20251028_091602-Meeting%2520Recording.mp4%3Fweb%3D1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=37fa910a-dd7b-4e6d-b1e7-6b8934367346&threadType=topic&meetingType=MeetNow&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1761638954225&subType=RecapSharingLink_RecapCore)
