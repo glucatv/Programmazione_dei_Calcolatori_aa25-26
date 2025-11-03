@@ -140,3 +140,4 @@ Introduzione alla tecnica della ricorsione.
 
 Ancora sulla complessità spaziale e rapporto con la dimensione dell'output. La tecnica della ricorsione. Lo stack delle chiamate e come interviene sulla ricorsione. Complessità spaziale delle funzioni ricorsive.
 
+- [Codice](lezioni/13-2025-11-03/13-ricorsione.md)
