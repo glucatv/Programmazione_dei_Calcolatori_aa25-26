@@ -74,7 +74,7 @@ Limiti del metodo algoritmico: indecidibilità e intrattabilità. La Macchina di
 
 Concetti essenziali della programmazione attraverso Python: variabili; assegnazioni (semplici e multiple); cicli `for`; funzioni interne `print` e `range`; controllo del flusso con l'istruzione `if`; condizioni *booleane*; espressioni numeriche; tipi di dato numerici (`int` e `float`); stringhe e booleani; utilizzo di librerie esterne, la libreria `random`.
 
-- [Codice](lezioni/05-2025-10-15/05-introduzione_a_python.ipynb)
+- [Codice](lezioni/05-2025-10-15/05-introduzione_a_python.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2GQPPGIKR3N7FC2QQCGIIIO7WSA&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25205%2520del%25202025-10-15%2520%28Aula%2520T5%29-20251015_113309-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25205%2520del%25202025-10-15%2520%28Aula%2520T5%29-20251015_113309-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e008000000004cf25a96ee3cdc0100000000000000001000000004cbfe0b14f5744fafb986d0c0c164e9&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=b13f1dbc-95e2-4abc-8ae3-88069d541c65&threadType=topic&meetingType=Scheduled&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1760434832896&subType=RecapSharingLink_RecapCore)
 
@@ -82,7 +82,7 @@ Concetti essenziali della programmazione attraverso Python: variabili; assegnazi
 
 L'istruzione `while`. Le funzione incorporate `type` e `input`. Funzioni di conversione di dati: `int`, `float` e `str`. Le stringhe: la funzione `len`; l'operatore di indicizzazione; iterare sui caratteri con `for`; iterare sugli indici con la funzione incorporata `range`; iterare su indici e caratteri con `enumerate`; gli operatori di concatenazione e ripetizione.
 
-- [Codice](lezioni/06-2025-10-17/06-introduzione_a_python.ipynb)
+- [Codice](lezioni/06-2025-10-17/06-introduzione_a_python.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2AI55ZQDSKVCRBLOKB3ITSZ7CC7&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25206%2520del%25202025-10-17-20251017_092229-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25206%2520del%25202025-10-17-20251017_092229-Meeting%2520Recording.mp4%3Fweb%3D1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=efe4203c-5c8e-4209-8c00-c0a26215970e&threadType=topic&meetingType=MeetNow&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1760685532433&subType=RecapSharingLink_RecapCore)
 
@@ -90,7 +90,7 @@ L'istruzione `while`. Le funzione incorporate `type` e `input`. Funzioni di conv
 
 Operatori di divisione intera e modulo; istruzione `if...else`; operatori logici `and`, `or`, `not`; operarore `in`.
 
-- [Codice](lezioni/07-2025-10-20/07_intro_python.ipynb)
+- [Codice](lezioni/07-2025-10-20/07_intro_python.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2ATR7RKYTSQ2FHZBPDLAE42Y5YP&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25207%2520del%25202025-10-20-20251020_091537-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25207%2520del%25202025-10-20-20251020_091537-Meeting%2520Recording.mp4%3Fweb%3D1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=f452cfb8-78f0-4bf2-a066-7f07b0af2582&threadType=topic&meetingType=MeetNow&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1760944515199&subType=RecapSharingLink_RecapCore)
 
@@ -98,7 +98,7 @@ Operatori di divisione intera e modulo; istruzione `if...else`; operatori logici
 
 Operatori bit-a-bit e loro utilizzo per migliorare l'efficienza. Operazioni su stringhe: slicing, indicizzazione negativa, inversione di una lista. Confronto sull'efficienza di due soluzione per la verifica se una stringa in input è palindroma: cenni preliminari sull'efficienza dei programmi rispetto al tempo di calcolo e all'utilizzo di memoria.
 
-- [Codice](lezioni/08-2025-10-21/08-intro_python.ipynb)
+- [Codice](lezioni/08-2025-10-21/08-intro_python.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2FM3WZJFXQ2FVA3TLRH3WG5I55Z&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25208%2520del%25202025-10-21-20251021_091216-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25208%2520del%25202025-10-21-20251021_091216-Meeting%2520Recording.mp4%3Fweb%3D1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=6cb8be63-3452-47b9-b24d-d9aefe2695e7&threadType=topic&meetingType=MeetNow&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1761030706408&subType=RecapSharingLink_RecapCore)
 
@@ -106,7 +106,7 @@ Operatori bit-a-bit e loro utilizzo per migliorare l'efficienza. Operazioni su s
 
 Introduzione alla complessità temporale: notazione O-grande, analisi del caso peggiore e del caso medio. Le strutture dati *tupla* e *lista*.
 
-- [Codice](lezioni/09-2025-10-24/09_complessita+tuple+liste.ipynb)
+- [Codice](lezioni/09-2025-10-24/09_complessita+tuple+liste.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2CHIJWKPMZTCBD33EFZMYUG2BY5&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti+condivisi%2FLezioni+2025-26%2FRecordings%2FSolo+visualizzazione%2FLezione+9+del+2025-10-24-20251024_084800UTC-Meeting+Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%25209%2520del%25202025-10-24-20251024_084800UTC-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e008000000007256d18db144dc010000000000000000100000004b397faf5093d54691f60b2cc082efe1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=afff4114-05e0-4d09-8248-d2889f09542f&threadType=topic&meetingType=Scheduled&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1761288228489&subType=RecapSharingLink_RecapCore)
 
@@ -114,7 +114,7 @@ Introduzione alla complessità temporale: notazione O-grande, analisi del caso p
 
 Complessità temporale dell'operazione di confronto tra liste e dell'indicizzazione. Progettazione di nuove funzioni: definizione ed esecuzione di funzioni, parametri formali, parametri attuali, variabili locali, istruzione `return`, la *docstring* e la funzione `help`.
 
-- [Codice](lezioni/10-2025-10-27/10_liste+funzioni.ipynb)
+- [Codice](lezioni/10-2025-10-27/10_liste+funzioni.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2AUCKKKV2PQ7BDZDPTALOPBRWSA&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252010%2520del%25202025-10-27-20251027_094936UTC-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252010%2520del%25202025-10-27-20251027_094936UTC-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e00800000000c5862abc1447dc01000000000000000010000000db57117a4523b348b93aa3745941c037&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=706b6df4-f0b6-4a29-9ab4-bcecc2a1105f&threadType=topic&meetingType=Scheduled&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1761550728803&subType=RecapSharingLink_RecapCore)
 
@@ -122,7 +122,7 @@ Complessità temporale dell'operazione di confronto tra liste e dell'indicizzazi
 
 Esempi di funzioni di ricerca incorporate (`min`, `max`) e non: implementazioni di `argfind` e `argmax`. L'istruzione `break` per uscire dal ciclo più interno. Il valore `None`. Come ordinare le condizione in `or` per evitare effetti indesiderati. *Aliasing* e *clonazione* di liste. Aliasing e parametri di funzioni. Cenni preliminari di ricorsione.
 
-- [Codice](lezioni/11-2025-10-28/11_funzioni_di_ricerca+aliasing.ipynb)
+- [Codice](lezioni/11-2025-10-28/11_funzioni_di_ricerca+aliasing.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2E6PEKDK7X73ZBYDGATUU6DUV2O&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252011%2520del%25202025-10-28-20251028_091602-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252011%2520del%25202025-10-28-20251028_091602-Meeting%2520Recording.mp4%3Fweb%3D1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=37fa910a-dd7b-4e6d-b1e7-6b8934367346&threadType=topic&meetingType=MeetNow&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1761638954225&subType=RecapSharingLink_RecapCore)
 
@@ -132,7 +132,7 @@ Gli *effetti collaterali* delle funzioni. Complessità spaziale: stima dello spa
 
 Introduzione alla tecnica della ricorsione.
 
-- [Codice](lezioni/12-2025-10-31/12_effetti_collaterali+complessita_spaziale.ipynb)
+- [Codice](lezioni/12-2025-10-31/12_effetti_collaterali+complessita_spaziale.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2GVJM6X4I52GRG2343EZ4GXB3P7&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252012%2520del%25202025-10-31-20251031_094844UTC-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252012%2520del%25202025-10-31-20251031_094844UTC-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e0080000000080844e303d4adc01000000000000000010000000e70029cb7289394d8975a65fb442990e&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=88c804eb-5d1e-43a0-a744-a34722c52456&threadType=topic&meetingType=Scheduled&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1761897956782&subType=RecapSharingLink_RecapCore)
 
