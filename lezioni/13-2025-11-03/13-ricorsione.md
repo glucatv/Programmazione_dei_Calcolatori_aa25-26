@@ -139,11 +139,8 @@ print(a)
 
 La funzione `range` quando invocata con due parametri, inizia a generare interi a partire dal valore del primo parametro.
 
-Eseguire la funzione  `fattoriale` su [Python Tutor](https://pythontutor.com/).
+Lo stack di esecuzione incide sulla complessità spaziale. Eseguire la funzione  `fattoriale` su [Python Tutor](https://pythontutor.com/). La complessità spaziale della funzione `fattoriale` è $O(n)$.
 
-$$
-\frac{1}{n}
-$$
 
 # Esercizi
 
