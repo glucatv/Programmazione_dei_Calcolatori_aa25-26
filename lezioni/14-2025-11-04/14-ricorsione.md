@@ -147,16 +147,10 @@ print( argmax(a, 0) )
     0
     
 
-Sia $T(n)$ il numero di operazioni eseguite dalla funzione su una sottolista di dimensione `n`. Allora per opportune costanti $c_0$ e $c_1$,
+Sia $T(n)$ il numero di operazioni eseguite dalla funzione su una sottolista di dimensione `n`. Allora per opportune costanti $c_0$ e $c_1$:
 
-$$
-T(n) = \left\{
-    \begin{array}{lcl}
-        c_0 & & \text{se $n< 2$}\\
-        c_1 + T(n-1) & & \text{altrimenti}
-    \end{array}
-\right.  
-$$
+- $T(n) = c_0$ se $n < 2$
+- $T(n) = c_1 + T(n-1)$ altrimenti
 
 Sviluppando, $T(n) = (n-1)c_0 + c_1$ che è $O(n)$.
 
