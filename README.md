@@ -154,7 +154,7 @@ Soluzione ricorsiva del problema della ricerca della posizione del massimo: anal
 
 ### Lezione 15 del 2025-11-07
 
-Funzioni annidate. L'algoritmo ricorsivo per la clonazione profonda di una lista. Introduzione all'algoritmo Bubble-Sort.
+Funzioni  annidate. L'algoritmo ricorsivo per la clonazione profonda di una lista. Introduzione all'algoritmo Bubble-Sort.
 
 - [Codice](./lezioni/15-2025-11-07/15-clonazione+bubblesort.md)
 
