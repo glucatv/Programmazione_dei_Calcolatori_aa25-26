@@ -186,7 +186,7 @@ Implementazione e complessità spaziale del `merge_sort`. Personalizzazione dei 
 
 ### Lezione 19 del 2025-11-17
 
-Ordinamento multi-criterio usando il parametro `key`. Gli strumenti di ordinamento incorporati in Python: la funzione `sorted` ed il metodo delle liste `sort`. Una applicazione dell'ordinamento: l'algoritmo k-Nearest Neighbor (kNN) ed il problema della classificazione. Leggere l'input da file di testo: la funzione `open`. Il metodo delle stringhe `split` per dividere la stringa in una lista di stringhe. Creazione di liste con *list comprehension*. Espressioni condizionali. Lo spacchettamento in una lista con l'operatore `*`. La funzione `randint` della libreria `random`. Le funzione `any` e `all`. La funzione `zip`.
+Ordinamento multi-criterio usando il parametro `key`. Gli strumenti di ordinamento incorporati in Python: la funzione `sorted` ed il metodo delle liste `sort`. Una applicazione dell'ordinamento: l'algoritmo k-Nearest Neighbor (kNN) ed il problema della classificazione. Leggere l'input da file di testo: la funzione `open`. Il metodo delle stringhe `split` per dividere la stringa in una lista di stringhe. Creazione di liste con *list comprehension*. Espressioni condizionali. Lo spacchettamento in una lista con l'operatore `*`. La funzione `randint` della libreria `random`. Le funzione `any` e `all`. La funzione `zip`. La funzione `sum`. Il parametro `key` nella funzione `max` (anche `int`).
 
 - [Codice](lezioni/19-2025-11-17/19-knn.md)
 
