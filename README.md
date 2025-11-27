@@ -219,3 +219,9 @@ Dichiarazione e inizializzazione delle variabili nel linguaggio `C`.
 - [Codice](lezioni/22-2025-11-24/22-varie_python+variabili_c.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2EAG5YKWZGYORFLKOQLPXOJ6PSW&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti+condivisi%2FLezioni+2025-26%2FRecordings%2FSolo+visualizzazione%2FLezione+22+del+2025-11-24-20251124_095019UTC-Meeting+Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252022%2520del%25202025-11-24-20251124_095019UTC-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e0080000000097e5954eb45cdc010000000000000000100000001835687f6515c648aec8a07398cc920d&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=87b9c9df-8e7e-4110-a215-4c6dc36f63f3&threadType=topic&meetingType=Scheduled&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1763928239069&subType=RecapSharingLink_RecapCore)
+
+### Lezione 23 del 2025-11-25 (tutor)
+
+Ambiente WLS e configurazione di Visual Studio Code per compilare in C su una macchina virtuale.
+
+- [Slides](lezioni/23-2025-11-25/Installazione_VSC_GCC.pdf)
