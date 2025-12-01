@@ -228,7 +228,7 @@ Ambiente WLS e configurazione di Visual Studio Code per compilare in C su una ma
 
 ### Lezione 24 del 2025-11-28
 
-Linguaggio C: tipi di dato `float`, `double`, `int` e `char`; stringhe formattate; cicli `while` e `for`; definizione di funzioni; gli array.
+Linguaggio C: tipi di dato `float`, `double`, `int` e `char`; stringhe formattate; cicli `while` e `for`; definizione di funzioni; gli array; la funziona `sizeof`.
 
 - [Codice](lezioni/24-2025-11-28/lezione24.md)
 
