@@ -56,7 +56,7 @@ Il parametro `-l` serve per indicare quale libreria esterna collegare in fase di
 
 # Array e funzioni
 
-Alla funzione viene passato l'indirizzo di memoria dell'array. La funzione può modificare l'array.
+Alla funzione viene passato l'indirizzo di memoria (*puntatore*) dell'array. La funzione può modificare l'array.
 
 ```C
 double somma_e_distruggi(double v[], int size ){
