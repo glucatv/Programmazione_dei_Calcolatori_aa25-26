@@ -3,7 +3,7 @@
 # La funzione `realloc`
 
 ```C
-int main0(){
+int main(){
     double *a = NULL;
     int i, n = 3;
 
