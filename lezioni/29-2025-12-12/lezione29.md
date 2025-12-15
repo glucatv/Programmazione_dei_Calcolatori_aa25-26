@@ -1,5 +1,5 @@
 
-# Allocazione dinami di stringhe
+# Allocazione dinamica di stringhe
 
 ```C
 #include <stdio.h>
