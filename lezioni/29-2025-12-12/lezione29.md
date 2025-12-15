@@ -1,4 +1,27 @@
 
+# Allocazione dinami di stringhe
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+char *StrCat(char *, char*);
+
+int main(){
+    char str0[] = "programmazione";
+    char str1[] = " dei calcolatori";
+    char *str2;
+
+    //strcat(str0, str1); ///  PERICOLO!!!! 
+    //printf("%s\n", str0);
+
+    str2 = StrCat(str0, str1);
+    printf("%s\n", str2);
+
+}
+```
+
 La funzione `strcat` richiede che l'array su cuoi eseguire la concatenazione abbia memoria sufficiente. La prossima funzione gestisce tutto in modo dinamico: date due stringhe, ritorna una nuova stringa contenente la concatenazione delle due.
 
 ```C
