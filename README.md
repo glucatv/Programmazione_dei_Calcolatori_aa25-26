@@ -279,7 +279,7 @@ La funzione `free`. Aritmetica dei puntatori. Le funzioni `scanf` e `sscanf`.
 
 ### Lezione 31 del 2025-12-16
 
-Verso l'implementazione della della str uttura dati dizionario. La struttura dati *lista concatenata*: definizione; implementazione dell'inserimento e della scansione. L'operatore `->`.
+Verso l'implementazione della della struttura dati dizionario. La struttura dati *lista concatenata*: definizione; implementazione dell'inserimento e della scansione. L'operatore `->`.
 
 - [Codice](lezioni/31-2025-12-16/lezione31.md)
 
