@@ -1,4 +1,3 @@
-
 # Verso l'implementazione della struttura dizionario
 
 Un dizionario può essere implementato tramite un array `d` in cui a ogni chiave `k` viene associata, mediante una funzione di indirizzamento `h`, una posizione `i` dell'array.
