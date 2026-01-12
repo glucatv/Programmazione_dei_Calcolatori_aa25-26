@@ -5,11 +5,19 @@ Aggiungeremo alla struttura dati delle funzionalità che garantiranno liste di t
 
 Valuteremo il risultato creando un dizionario contentente come chiavi le parole contenute in un testo, e come valore, il numero di volte in cui queste vi compaiono.
 
-La definizione aggiornata della struttura è contenuta del file [dizionario.h](dizionario.h) che deve essere includo in questo modo
+La definizione aggiornata della struttura è contenuta del file [dizionario.h](dizionario.h) che deve essere incluso in questo modo
 
 ```C
 #include "dizionario.h"
 ```
+
+Sono stati aggiunti:
+
+* il campo `n` contenente il numero di elementi nel dizionario;
+* il campo `h` contenente il puntatore alla funzione hash.
+
+Vedere i commenti nel file. 
+
 
 Funzione hash giocattolo utilizzata per dizionari con 2 liste.
 
