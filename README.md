@@ -311,7 +311,7 @@ Esempio di implementazione in C di un micro dizionario con due liste di trabocco
 
 ## Lezione 35 del 2026-01-12
 
-La funzione hash `DJB2`. Come limitare la dimensione delle liste di trabocco. La funzione `getline`. Puntatori a funzione.
+La funzione hash `DJB2`. Come limitare la dimensione delle liste di trabocco. La funzione `getline`. Puntatori a funzione. Compilazione di programmi su più file.
 
 - [Codice](lezioni/35-2026-01-12/lezione35.md)
 
