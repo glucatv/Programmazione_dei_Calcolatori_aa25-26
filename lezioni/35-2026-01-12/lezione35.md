@@ -73,7 +73,7 @@ dizionario inserisci_dizionario(dizionario d, chiave_valore elem){
         if ( d.n> 10*d.m ){
             /*
             TODO:
-            gestire il ridimensionamento dell'array delle lite
+            gestire il ridimensionamento dell'array delle liste
             di trabocco
             */
         }
