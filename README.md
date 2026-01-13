@@ -316,3 +316,9 @@ La funzione hash `DJB2`. Come limitare la dimensione delle liste di trabocco. La
 - [Codice](lezioni/35-2026-01-12/lezione35.md)
 
 - [Video della lezione](https://teams.microsoft.com/l/meetingrecap?driveId=b%21kYPknM1HqUCK7foLq6fTvQdfyXHvrRpDhQMknJlYsUkyXKa_u3uFR6vYPBHIT7Sf&driveItemId=01HBHLZ2CXV2DIIJ6J5NF2AJDNR6MEUNP6&sitePath=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252035%2520del%25202026-01-12-20260112_091453-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Funiroma2.sharepoint.com%2Fsites%2Fmsteams_6c3e26%2FDocumenti%2520condivisi%2FLezioni%25202025-26%2FRecordings%2FSolo%2520visualizzazione%2FLezione%252035%2520del%25202026-01-12-20260112_091453-Meeting%2520Recording.mp4%3Fweb%3D1&threadId=19%3A94d0fecf0575467b98a31058d646d8a7%40thread.tacv2&organizerId=1fd25b9c-e7d9-4de7-b120-795b9b2546c5&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e&callId=81446e9c-b399-4fb7-bf39-cf64ffb00387&threadType=topic&meetingType=MeetNow&organizerGroupId=07158cb1-0fc1-4930-befd-80987312c5f0&channelType=Standard&replyChainId=1768205593001&subType=RecapSharingLink_RecapCore)
+
+## Lezione 36 del 2026-01-13
+
+Ridimensionare il numero di liste di trabocco di un dizionario. Argomenti alla linea di comando.
+
+- [Codice](lezioni/36-2026-01-13/lezione36.md)
