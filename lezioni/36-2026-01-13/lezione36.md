@@ -64,7 +64,7 @@ dizionario ridimensiona_dizionario(dizionario d, int new_m){
 }
 ```
 
-La funzione `cancella_testa` elimina ll nodo in testa alla lista di input, è definita nel file [lista.c](lista.c.)
+La funzione `cancella_testa` elimina ll nodo in testa alla lista di input, è definita nel file [lista.c](lista.c)
 
 Se la lista è non vuota, cancella il nodo in testa alla lista altrimenti ritorna `NULL`.
 
@@ -169,7 +169,7 @@ int main() {
 ```
 ## Compilazione
 
-Il programma è diviso i tre file: de definizioni dei tipi di dato sono sul file [dizionario.h](dizionario.h) e le funzioni delle liste sono definite sul file [lista.c](lista.c). Per compilare il programma occorre compilare insieme il presente file con il file [lista.c](lista.c).
+Il programma è diviso i tre file: de definizioni dei tipi di dato sono sul file [dizionario.h](dizionario.h) e le funzioni delle liste sono definite sul file [lista.c](lista.c). Per compilare il programma occorre compilare insieme [dizionario.c](dizionario.c)  e [lista.c](lista.c).
 
 Assumendo che tutti i file si trovino nella stessa cartella:
 
